@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+requests==2.32.3
+openai==1.51.0
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.5
+beautifulsoup4==4.12.3
+lxml==5.3.0
+python-dotenv==1.0.1
